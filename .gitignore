@@ -1,0 +1,10 @@
+*.csv
+data/**
+logs/**
+*.pkl
+**/__pycache__
+__pycache__/**
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.pyc
+.DS_Store
