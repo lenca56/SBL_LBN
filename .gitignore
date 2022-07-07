@@ -1,4 +1,3 @@
-*.csv
 logs/**
 *.pkl
 **/__pycache__
